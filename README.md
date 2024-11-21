@@ -82,6 +82,14 @@ To exit the program they can just type `exit` and will receive "Yoda: May the Fo
 If a API call fails, the users gets the following message: "Hmm, sense the Force I cannot. Try again, we must."
 
 ### Additional
+**Chat Response Examples** 
+
+<img width="1028" alt="Screenshot 2024-11-21 at 11 26 43" src="https://github.com/user-attachments/assets/64cde54f-ea42-4cde-a996-fc5ecc69c500">
+Based on this chat you can see that the Chatbot behaves according to the system prompt.
+It references the Force, shows Yodas unique speech pattern and keeps the answers brief.
+
+
 **Future Improvements**
+
 To improve the Chatbot further, one could implement enhanced memory capabilites to keep responses and promts from conversations from other sessions. One could also include user feedback for the respones to use reinforcement learning for better results in the future.
 Moreover, you could add a StarWars data-set/data base to the charbot for Yoda to refference more specific and detailed knowledge about the StarWars universe.
